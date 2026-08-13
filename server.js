@@ -1,4 +1,5 @@
 // BoeufTrack API - Backend Express
+//Redeploy trigger
 // v2.1 : ajoute la couche analytique carcasse (slaughters, precision, yield)
 // Pipeline hybride CV + LLM : voir ./lib/pipeline.js
 // TODO PROD : remplacer le store en mémoire par Postgres
